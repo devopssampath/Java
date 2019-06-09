@@ -8,7 +8,7 @@ public class FirstJavaProgram {
     System.out.println("New line added to the Program. Changed");
     System.out.println("Pipeline 2 example");  
     // display time and date using toString()
-    System.out.println(date.toString());
+    System.out.println("Date is "+date.toString());
   }//End of main
 }//End of FirstJavaProgram Class
 
