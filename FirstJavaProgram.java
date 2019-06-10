@@ -5,6 +5,7 @@ public class FirstJavaProgram {
       Date date = new Date();
 
     System.out.println("This is my first program in java");
+    System.out.println("New Line");
     System.out.println("Pipeline 2 example");  
     // display time and date using toString()
     System.out.println("Date is "+date.toString());
